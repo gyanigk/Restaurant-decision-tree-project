@@ -21,7 +21,7 @@
 </p>
 
 ----
-## Decision Tree (Max_Depth=50, 78.94% Acc)
+## Decision Tree (Max_Depth=[1-49], highest 79.15% Acc)
 <p align="center">
 <img src=".\results\max_depth=50.png">
 </p>
