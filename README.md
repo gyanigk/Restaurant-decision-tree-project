@@ -3,7 +3,7 @@
 
 # Introduction
 - Decision trees are considered to be one of the most popular approaches for representing classifiers. Researchers from various disciplines such as statistics, machine learning, pattern recognition, and data mining considered the issue of growing a decision tree from available data.
-- We used the Decision Tree for classification of numerical+textual Zomato restaurant dataset taken from Kaggle. The task was to implement the Decision Tree algorithms like ID3, CART, C4.5 with/without pruning to qualify the bast result.  
+- We used the Decision Tree for classification of numerical+textual Zomato restaurant dataset taken from Kaggle. The task was to implement the Decision Tree algorithms like ID3, CART, C4.5 with/without pruning to qualify the best result.  
 
 
 # Dataset
